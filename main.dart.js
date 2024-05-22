@@ -9325,7 +9325,7 @@ aEX(){var s,r=A.u2()
 if(B.c.p(r.ghS(r),"localhost")){r=A.u2()
 r=r.ghS(r)
 s=A.u2()
-return"http://"+r+":"+s.gmv(s)+"/dashboardweb"}else return"https://dermeidl.github.io/your-repository-name/dashboardweb"},
+return"http://"+r+":"+s.gmv(s)+"/dashboardweb"}else return"https://dermeidl.github.io/dermeidl/dashboardweb"},
 KK:function KK(a){this.a=a},
 xE:function xE(a){this.a=a},
 Rw:function Rw(a){var _=this
